@@ -3,7 +3,7 @@ Simple XGB imputer for tabular data
 # Created as part of data preprocessing during Song Popularity prediction competition at Kaggle  
 # How to use:
 ```python
-from xgb imputer import fill_feats
+from xgbimputer import fill_feats
 # all code below related to song competition
 
 miss_cat = ['key'] # categorical columns
